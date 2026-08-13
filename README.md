@@ -205,7 +205,7 @@ This repository is intended for:
 
 ## Author
 
-**Theja Sri **
+**Theja Sri** 
 
 Computer Science & Engineering
 
