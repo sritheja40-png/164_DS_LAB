@@ -205,7 +205,7 @@ This repository is intended for:
 
 ## Author
 
-**Thamizh Selvan**
+**Theja Sri **
 
 Computer Science & Engineering
 
